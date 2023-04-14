@@ -1,4 +1,4 @@
-# How to build Dockerfile and Docker Compose
+# How to build Dockerfile
 
 Hello everyone,
 
